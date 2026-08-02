@@ -1,5 +1,5 @@
 {
-  "name": "@rosen-chains/cardano-koios-network",
+  "name": "@my-packages-changeit/cardano-koios-network",
   "version": "13.0.3",
   "description": "cardano koios network package for rosen cardano chain",
   "keywords": [

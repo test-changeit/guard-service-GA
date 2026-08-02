@@ -1,5 +1,5 @@
 {
-  "name": "@rosen-chains/bitcoin-runes",
+  "name": "@my-packages-changeit/bitcoin-runes",
   "version": "4.0.1",
   "description": "this project contains Runes protocol of Bitcoin chain for Rosen-bridge",
   "keywords": [

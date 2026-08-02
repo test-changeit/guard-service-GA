@@ -1,5 +1,5 @@
 {
-  "name": "@rosen-chains/evm-rpc",
+  "name": "@my-packages-changeit/evm-rpc",
   "version": "4.0.5",
   "description": "A package to be used as network api provider for @rosen-chains/evm package",
   "keywords": [

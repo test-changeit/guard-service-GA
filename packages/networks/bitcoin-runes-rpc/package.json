@@ -1,5 +1,5 @@
 {
-  "name": "@rosen-chains/bitcoin-runes-rpc",
+  "name": "@my-packages-changeit/bitcoin-runes-rpc",
   "version": "2.0.6",
   "description": "A package to be used as network api provider for @rosen-chains/bitcoin-runes package",
   "keywords": [

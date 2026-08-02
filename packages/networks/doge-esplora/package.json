@@ -1,5 +1,5 @@
 {
-  "name": "@rosen-chains/doge-esplora",
+  "name": "@my-packages-changeit/doge-esplora",
   "version": "2.0.4",
   "description": "A package to be used as network api provider for @rosen-chains/doge package",
   "keywords": [

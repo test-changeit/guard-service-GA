@@ -1,5 +1,5 @@
 {
-  "name": "@rosen-chains/bitcoin-esplora",
+  "name": "@my-packages-changeit/bitcoin-esplora",
   "version": "5.0.4",
   "description": "A package to be used as network api provider for @rosen-chains/bitcoin package",
   "keywords": [

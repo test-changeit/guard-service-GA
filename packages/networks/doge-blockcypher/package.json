@@ -1,5 +1,5 @@
 {
-  "name": "@rosen-chains/doge-blockcypher",
+  "name": "@my-packages-changeit/doge-blockcypher",
   "version": "1.0.4",
   "description": "A package to be used as network api provider for @rosen-chains/doge package using BlockCypher API",
   "keywords": [
