@@ -6,6 +6,6 @@
     }
   },
   "ignoreBinaries": ["typeorm"],
-  "ignoreDependencies": ["typeorm", "pg"],
+  "ignoreDependencies": ["typeorm", "pg", "@rosen-chains/*"],
   "ignoreUnresolved": ["vitest/globals"]
 }
